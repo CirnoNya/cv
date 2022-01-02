@@ -1,2 +1,2 @@
-https://sneyt11.github.io/rsschool-cv/cv
-https://sneyt11.github.io/rsschool-cv/index.html
+https://cirnonya.github.io/rsschool-cv/cv
+https://cirnonya.github.io/rsschool-cv/index.html
